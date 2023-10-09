@@ -1,5 +1,4 @@
 import hero from "../assets/img/hero.png";
-import test from "../assets/img/kelas/kelas-2.jpg";
 import { Container, Row, Col } from "react-bootstrap";
 import { produkTerbaru } from "../data/index.js";
 function HomePage() {
